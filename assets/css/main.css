@@ -1,0 +1,24 @@
+@import url('../fonts/satoshi/stylesheet.css');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply text-[#2B2B2B] scroll-smooth antialiased;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    @apply text-[#2B2B2B] font-bold;
+  }
+
+  input {
+    @apply text-sm;
+  }
+}
