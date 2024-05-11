@@ -24,7 +24,7 @@
             <p class="text-sm text-white">© Copyright {{ new Date().getFullYear() }} All Rights Reserved.</p>
 
             <div class="flex mt-3 -mx-2 sm:mt-0">
-                <a href="#" class="mx-2 text-sm text-white transition-colors duration-300 hover:text-gray-100" aria-label="Reddit"> Teams </a>
+                <a href="#" class="mx-2 text-sm text-white transition-colors duration-300 hover:text-gray-100" aria-label="Reddit"> Terms </a>
 
                 <a href="#" class="mx-2 text-sm text-white transition-colors duration-300 hover:text-gray-100 " aria-label="Reddit"> Privacy </a>
 
