@@ -6,7 +6,31 @@
 
 @layer base {
   body {
-    @apply text-[#2B2B2B] scroll-smooth antialiased;
+    @apply antialiased text-[#2B2B2B] scroll-smooth overflow-x-hidden;
+  }
+
+  html {
+    @apply scroll-smooth;
+  }
+
+  [type="text"],
+  [type="email"],
+  [type="url"],
+  [type="password"],
+  [type="number"],
+  [type="date"],
+  [type="datetime-local"],
+  [type="month"],
+  [type="search"],
+  [type="tel"],
+  [type="time"],
+  [type="week"],
+  /* [type="checkbox"], */
+  [type="file"],
+  [multiple],
+  textarea,
+  select {
+    @apply block border border-gray-200 text-gray-500 px-3 py-2 rounded-md w-full mt-1 text-sm  focus:border-gray-300 focus:outline-none focus:ring-purple-700 focus:shadow-purple-700;
   }
 
   h1,
@@ -15,10 +39,28 @@
   h4,
   h5,
   h6 {
-    @apply text-[#2B2B2B] font-bold;
+    @apply text-gray-800 font-bold;
   }
+}
 
-  input {
-    @apply text-sm;
+@layer components {
+  /* Button styles */
+  .btn-primary {
+    @apply block w-full py-2 px-4 mt-4 leading-5 transition-colors duration-150 border border-transparent text-white bg-accent hover:bg-accent-one focus:ring-4 focus:outline-none focus:ring-purple-300 font-medium rounded-lg text-sm  text-center;
+  }
+  .btn-success {
+    @apply block w-full py-2 px-4 mt-4 leading-5 transition-colors duration-150 border border-transparent focus:outline-none text-white bg-green-700 hover:bg-green-800 focus:ring-4 focus:ring-green-300 font-medium rounded-lg text-sm  mr-2 mb-2;
+  }
+  .btn-danger {
+    @apply block w-full py-2 px-4 mt-4 leading-5 transition-colors duration-150 border border-transparent focus:outline-none text-white bg-red-700 hover:bg-red-800 focus:ring-4 focus:ring-red-300 font-medium rounded-lg text-sm mr-2 mb-2;
+  }
+  .btn-warning {
+    @apply block w-full py-2 px-4 mt-4 leading-5 transition-colors duration-150 border border-transparent focus:outline-none text-white bg-yellow-400 hover:bg-yellow-500 focus:ring-4 focus:ring-yellow-300 font-medium rounded-lg text-sm mr-2 mb-2 dark:focus:ring-yellow-300;
+  }
+  .btn-outline {
+    @apply block w-full py-2 px-4 mt-4 leading-5 transition-colors duration-150 border border-transparent text-accent hover:text-white border-accent hover:bg-accent focus:ring-4 focus:outline-none focus:ring-purple-300 font-medium rounded-lg text-sm  text-center mr-2 mb-2;
+  }
+  .btn-text {
+    @apply text-xs font-medium text-gray-400 hover:text-accent hover:underline;
   }
 }

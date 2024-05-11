@@ -3,7 +3,7 @@
 </script>
 
 <template>
-  <div class="">
+  <div class="relative">
     <header class="">
       <nav class="w-full fixed inset-x-0 top-0 z-10">
         <NavBar />
@@ -13,6 +13,7 @@
       <slot />
     </main>
     <footer>
+      <Footer />
     </footer>
 
   </div>
