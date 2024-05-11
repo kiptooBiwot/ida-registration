@@ -29,7 +29,7 @@ const handleScroll = () => {
         </NuxtLink>
         <div>
           <ul class="flex gap-3 text-sm md:font-normal md:gap-6 items-center font-medium text-gray-600 uppercase">
-            <NuxtLink to="/" class="hover:scale-105 transition ease-in-out duration-300 hover:text-purple-700 hover:underline">
+            <NuxtLink to="/#home" class="hover:scale-105 transition ease-in-out duration-300 hover:text-purple-700 hover:underline">
               <li>Home</li>
             </NuxtLink>
             <NuxtLink to="/#about-us" class="hover:scale-105 transition ease-in-out duration-300 hover:text-purple-700 hover:underline">
