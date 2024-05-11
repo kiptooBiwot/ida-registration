@@ -1,7 +1,7 @@
 <template>
   <div key=" z-0  min-h-screen w-full ">
-    <div class=" flex items-center bg-purple-100 min-h-screen">
-      <div class="  max-w-6xl mx-auto grid grid-cols-2 h-full">
+    <div class="flex items-center bg-purple-100 min-h-screen">
+      <div class="mx-5 mt-[100px] md:mt-0  max-w-6xl xl:mx-auto grid grid-cols-2 h-full">
         <div class="col-span-12 md:col-span-1 h-full flex items-center">
           <div class="w-fit ml-0 space-y-5">
             <h1 class="font-semibold text-3xl md:text-5xl">Harnessing the <span class="text-[#673F7B]">Power of
