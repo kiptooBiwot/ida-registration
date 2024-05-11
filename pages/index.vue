@@ -1,9 +1,9 @@
 <template>
   <div key=" z-0  min-h-screen w-full ">
-    <div class=" pt-[100px] bg-purple-100 min-h-screen">
-      <div class="w-full grid grid-cols-2 h-full">
-        <div class="col-span-12 md:col-span-1 flex items-center">
-          <div class="w-3/4 mx-auto space-y-5">
+    <div class=" flex items-center bg-purple-100 min-h-screen">
+      <div class="  max-w-6xl mx-auto grid grid-cols-2 h-full">
+        <div class="col-span-12 md:col-span-1 h-full flex items-center">
+          <div class="w-fit ml-0 space-y-5">
             <h1 class="font-semibold text-3xl md:text-5xl">Harnessing the <span class="text-[#673F7B]">Power of
                 Digitization</span>
               through Regenerative
@@ -18,9 +18,9 @@
             </div>
           </div>
         </div>
-        <div class="col-span-12 md:col-span-1 flex items-center justify-center">
+        <div class="col-span-12 md:col-span-1 flex items-center justify-center md:justify-end">
           <!-- <div class="flex items-center justify-center"> -->
-          <img src="/images/hero_logo_1.svg" alt="" class="w-[300px] h-[300px] md:w-[400px] md:h-[400px]">
+          <img src="/images/hero_logo_1.svg" alt="" class="w-[300px] h-[300px] md:w-[450px] md:h-[400px]">
           <!-- </div> -->
         </div>
       </div>
