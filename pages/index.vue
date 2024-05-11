@@ -20,8 +20,9 @@
         </div>
         <div class="col-span-12 md:col-span-1 flex items-center justify-center md:justify-end">
           <!-- <div class="flex items-center justify-center"> -->
-          <img src="/images/hero_logo_1.svg" alt="" class="w-[300px] h-[300px] md:w-[450px] md:h-[400px]">
+          <!-- <img src="/images/hero_logo_1.svg" alt="" class="w-[300px] h-[300px] md:w-[450px] md:h-[400px]"> -->
           <!-- </div> -->
+          <img src="/images/hero-img.png" alt="" class="object-fit w-[300px] h-[300px] md:w-[450px] md:h-[450px]">
         </div>
       </div>
     </div>
