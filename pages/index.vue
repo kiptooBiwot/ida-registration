@@ -68,32 +68,33 @@ We are the Connective thread. Re-engineering Africa's Agricultural Value Chain t
 
 
     <!-- Our Work Section -->
-    <section class="min-h-screen relative w-full bg-gradient-to-r from-[#381E4F]  to-[#1B2E5F] overflow-hidden py-10 md:py-20">
-      <h3 class="text-center text-3xl text-gray-50 mb-5">Our Work</h3>
-      <div class="max-w-4xl mx-5 lg:mx-auto grid grid-cols-12 gap-10 text-white">
-        <div class="hidden lg:col-span-4 lg:flex items-center">
-          <img src="/images/abst-2.png" alt="" class="object-cover animate-pulse h-[400px]">
-        </div>
-        <div class="col-span-12 lg:col-span-8 flex flex-col justify-center space-y-5 text-center">
-          <div class="space-y-2">
-            <h4 class="text-blue-400 text-lg text-center">Built Environment</h4>
+    <section class="min-h-screen relative w-full bg-gradient-to-r from-[#381E4F]  to-[#1B2E5F] py-10 md:py-20">
+      <div class="max-w-4xl mx-5 lg:mx-auto">
+        <h3 class="text-center text-3xl text-gray-50 mb-5">Our Work</h3>
+        <div class=" grid grid-cols-12 lg:gap-10 text-white">
+        
+          <div class="hidden lg:col-span-4 lg:flex items-center">
+            <img src="/images/abst-2.png" alt="" class="object-cover animate-pulse h-[400px]">
+          </div>
+          <div class="col-span-12 lg:col-span-8 grid gap-5 text-center">
+            <div class="space-y-2">
+              <h4 class="text-blue-400 text-lg text-center">Built Environment</h4>
+              <p class="leading-relaxed">
+                We empower communities, local governments, and development companies to design and build structures that are not just efficient but also regenerative. We champion using recycled materials, biomimicry in design, and optimised building lifecycles to minimise waste and foster a healthier planet.
+              </p>
+            </div>
+            <div>
+              <h4 class="text-blue-400 text-lg text-center">Food Systems</h4>
             <p class="leading-relaxed">
-              We empower communities, local governments, and development companies to design and build structures that are not just efficient but also regenerative. We champion using recycled materials, biomimicry in design, and optimised building lifecycles to minimise waste and foster a healthier planet.
+              We champion closed-loop food production models that minimise waste and maximise resource utilisation. We support initiatives like urban agriculture, regenerative agriculture practices, and aquaponics systems that promote local food security, resource conservation, and a more resilient food chain.
             </p>
-          </div>
-
-          <div>
-            <h4 class="text-blue-400 text-lg text-center">Food Systems</h4>
-          <p class="leading-relaxed">
-            We champion closed-loop food production models that minimise waste and maximise resource utilisation. We support initiatives like urban agriculture, regenerative agriculture practices, and aquaponics systems that promote local food security, resource conservation, and a more resilient food chain.
-          </p>
-          </div>
-
-          <div>
-            <h4 class="text-blue-400 text-lg text-center">Energy Systems</h4>
-          <p class="leading-relaxed">
-            We play a crucial role in developing renewable energy solutions and promoting energy efficiency through a circular lens. This includes exploring innovative energy storage solutions, promoting circular material lifecycles for renewable energy infrastructure, and advocating for smart grid technologies to create a more resilient and sustainable energy future.
-          </p>
+            </div>
+            <div>
+              <h4 class="text-blue-400 text-lg text-center">Energy Systems</h4>
+            <p class="leading-relaxed">
+              We play a crucial role in developing renewable energy solutions and promoting energy efficiency through a circular lens. This includes exploring innovative energy storage solutions, promoting circular material lifecycles for renewable energy infrastructure, and advocating for smart grid technologies to create a more resilient and sustainable energy future.
+            </p>
+            </div>
           </div>
         </div>
       </div>
@@ -102,10 +103,10 @@ We are the Connective thread. Re-engineering Africa's Agricultural Value Chain t
 
     <!-- Next section -->
     <section class="min-h-screen py-20">
-      <div class="max-w-5xl mx-5 lg:mx-auto grid grid-cols-12 gap-10">
+      <div class="max-w-5xl mx-5 lg:mx-auto grid grid-cols-12 gap-0 lg:gap-10">
         <div class="col-span-12 lg:col-span-8 space-y-5 text-justify leading-relaxed">
 
-          <h3 class="text-3xl text-center">Agriculture Value-Chain Network (AVN)</h3>
+          <h3 class="text-2xl md:text-3xl text-center">Agriculture Value-Chain Network (AVN)</h3>
 
          <p>
           AVN, the flagship prototype from the <a href="#home" class="text-purple-800 font-semibold hover:underline"> Invictus Development Africa (IDA),</a> is revolutionising agriculture. It's not just a hybrid farming system; it's a data-driven powerhouse that empowers farmers to make informed decisions and maximise profits.

@@ -21,7 +21,7 @@
             </p>
             <p class="max-w-md mx-auto mt-4 text-gray-50">
               <Icon name="heroicons:envelope-20-solid" class="w-6 h-6" /> 
-              info@invictusdevelopmentafrica.net
+              info@invictusafrica.net
             </p>
             <p class="max-w-md mx-auto mt-4 text-gray-50 ">
               <Icon name="heroicons:home-solid" class="w-6 h-6" />
