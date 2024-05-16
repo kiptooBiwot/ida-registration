@@ -23,8 +23,8 @@ const handleScroll = () => {
       <div  class="relative flex justify-between py-[2px] max-w-6xl items-center mx-5 lg:mx-auto md:px-0">
         <NuxtLink to="/">
           <div class="flex gap-1 items-center">
-            <img src="/images/logo_bg.png" alt="" class="w-14 h-14 md:w-20 md:h-20 object-cover" :class="{'scrolled' : atTheTopOfPage}">
-            <img src="/images/logo_white.png" alt="" class="w-14 h-14 md:w-20 md:h-20 object-cover block" :class="{'scrolled' : !atTheTopOfPage}">
+            <img src="/images/logo_bg.png" alt="" class="w-14 h-14 md:w-20 md:h-20 object-cover" :class="{'scrolled' : atTopOfPage}">
+            <img src="/images/logo_white.png" alt="" class="w-14 h-14 md:w-20 md:h-20 object-cover block" :class="{'scrolled' : !atTopOfPage}">
             <h2 class="text-base font-semibold md:text-xl md:font-medium text-gray-50" :class="{ 'scrolled': !atTopOfPage }">Invictus <br class="block md:hidden"> Development Africa </h2>
           </div>
         </NuxtLink>
