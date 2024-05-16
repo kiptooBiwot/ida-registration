@@ -255,8 +255,9 @@ const register = async (event) => {
 </script>
 
 <template>
-  <div class="bg-purple-50 min-h-screen w-full pt-[100px]">
-    <div class="max-w-6xl mx-auto">
+  <div class="bg-purple-50 min-h-screen w-full">
+    <div class="w-full bg-purple-500 h-[80px]"></div>
+    <div class="max-w-6xl mx-auto my-[40px]">
       <div class="mx-5 md:mx-10 lg:mx-40 pt-2 bg-gray-50 rounded-md shadow-md">
         <div class="flex p-5">
           <div class="hidden md:block md:w-3/12 mx-4 p-4">
@@ -548,8 +549,20 @@ const register = async (event) => {
                           class="rounded w-4 h-4 border-gray-300 text-purple-800 focus:ring-purple-800"
                         />
                         <label for="acceptTerms" class="ms-2 text-sm">
-                          By continuing, I agree to the collection of my data by
-                          IDA.
+                          By continuing, I agree to the collection of my data,
+                          IDA's
+                          <NuxtLink
+                            to="/privacy-policy"
+                            class="text-purple-800 font-medium hover:underline cursor-pointer"
+                            >Privacy Policy</NuxtLink
+                          >
+                          and
+                          <NuxtLink
+                            to="/terms-of-service"
+                            class="text-purple-800 font-medium hover:underline cursor-pointer"
+                          >
+                            Terms of Service</NuxtLink
+                          >
                         </label>
                       </div>
                       <div>
