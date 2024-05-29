@@ -15,10 +15,10 @@
       </NuxtLink>
       
            <div class="text-sm">
-               <p class="max-w-md mx-auto mt-4 text-gray-50 ">
+               <!-- <p class="max-w-md mx-auto mt-4 text-gray-50 ">
               
                 <Icon name="heroicons:phone-20-solid" class="w-5 h-5" /> +44 7949 500 433
-            </p>
+            </p> -->
             <p class="max-w-md mx-auto mt-4 text-gray-50">
               <Icon name="heroicons:envelope-20-solid" class="w-6 h-6" /> 
               info@invictusafrica.net
