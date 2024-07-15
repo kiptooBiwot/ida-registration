@@ -54,6 +54,12 @@
       </div>
     </section>
 
+    <section class="w-full py-10 md:py-20">
+      <div class="max-w-6xl mx-5 lg:mx-auto">
+        <AboutSdgs />
+      </div>
+    </section>
+
     <section
       class="w-full bg-gradient-to-r from-[#381E4F] to-[#1B2E5F] py-10 md:py-20"
     >
