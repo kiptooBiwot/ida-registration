@@ -1,4 +1,6 @@
 @import url('../fonts/satoshi/stylesheet.css');
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
 
 @tailwind base;
 @tailwind components;
@@ -39,7 +41,7 @@
   h4,
   h5,
   h6 {
-    @apply text-gray-800 font-bold;
+    @apply text-gray-800 font-title font-bold;
   }
 }
 

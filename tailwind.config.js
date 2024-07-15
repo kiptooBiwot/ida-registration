@@ -11,8 +11,8 @@ export default {
   theme: {
     extend: {
       fontFamily: {
-        sans: ['Satoshi'],
-        body: ['Satoshi'],
+        sans: ['Inter'],
+        body: ['Inter'],
         title: ['Satoshi']
       },
       colors: {
