@@ -16,7 +16,7 @@
                 class="font-bold text-gray-50 text-3xl md:text-5xl tracking-[3px]"
               >
                 Harnessing the
-                <span class="text-blue-400">Power of Digitization</span> through
+                <span class="text-blue-400">Power of Digitisation</span> through
                 Regenerative Agriculture and Circular Value-Chains
               </h1>
               <p class="text-white text-lg leading-8">

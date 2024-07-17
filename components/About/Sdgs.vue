@@ -2,6 +2,7 @@
 const images = ref([
   { image: '/images/sdgs/1.png' },
   { image: '/images/sdgs/2.png' },
+  { image: '/images/sdgs/6.png' },
   { image: '/images/sdgs/11.png' },
   { image: '/images/sdgs/13.png' },
 ])
@@ -18,7 +19,7 @@ const images = ref([
     </p>
 
     <div
-      class="grid grid-cols-2 gap-5 md:gap-0 md:grid-cols-4 max-w-2xl mx-auto"
+      class="grid grid-cols-2 gap-5 md:gap-0 md:grid-cols-4 lg:grid-cols-5 max-w-3xl mx-auto"
     >
       <div v-for="(sdg, index) in images" :key="index">
         <img
