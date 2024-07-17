@@ -37,6 +37,11 @@
       </div> -->
     </section>
 
+    <!-- AVN -->
+    <section>
+      <AVNAbout />
+    </section>
+
     <section class="w-full">
       <AboutMotto />
     </section>
