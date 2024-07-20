@@ -18,7 +18,7 @@ const handleScroll = () => {
 </script>
 
 <template>
-  <nav :class="{ scrolled: !atTopOfPage }" class="w-full">
+  <nav :class="{ scrolled: !atTopOfPage }" class="w-full bg-[#673F7B]">
     <div
       class="relative flex justify-between py-[2px] max-w-6xl items-center mx-5 lg:mx-auto md:px-0"
     >

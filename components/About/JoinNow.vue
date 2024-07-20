@@ -24,7 +24,7 @@
 
       <div class="flex justify-center mt-5">
         <NuxtLink
-          to="/registration"
+          to="/about-us"
           class="px-8 py-4 rounded-lg text-white bg-purple-600 uppercase text-sm font-medium tracking-[2px] hover:bg-purple-500 hover:shadow-xl"
         >
           Join the Revolution

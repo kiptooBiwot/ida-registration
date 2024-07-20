@@ -7,7 +7,7 @@
       class="flex items-center bg-gradient-to-r from-[#381E4F] to-[#1B2E5F] min-h-screen"
     >
       <div
-        class="mx-10 mt-[100px] md:mt-0 max-w-6xl xl:mx-auto grid grid-cols-2 h-full"
+        class="mx-5 md:mx-10 mt-[100px] md:mt-0 max-w-6xl xl:mx-auto grid grid-cols-2 h-full"
       >
         <div class="col-span-12 md:col-span-1 h-full flex items-center">
           <div class="w-fit ml-0 space-y-10">
@@ -19,7 +19,7 @@
                 <span class="text-blue-400">Power of Digitisation</span> through
                 Regenerative Agriculture and Circular Value-Chains
               </h1>
-              <p class="text-white text-lg leading-8">
+              <p class="text-white text-sm md:text-lg leading-8">
                 Are you ready to revolutionise the way you farm? Welcome to AVN.
                 Transforming the future of farming to create a sustainable and
                 profitable farming ecosystem.
@@ -36,7 +36,7 @@
           </div>
         </div>
         <div
-          class="col-span-12 md:col-span-1 flex items-center justify-center md:justify-end"
+          class="col-span-12 mt-10 md:mt-0 md:col-span-1 flex items-center justify-center md:justify-end"
         >
           <!-- <div class="flex items-center justify-center"> -->
           <!-- <img
