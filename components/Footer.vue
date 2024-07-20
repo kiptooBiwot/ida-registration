@@ -45,21 +45,23 @@
         </p>
 
         <div class="flex mt-3 -mx-2 sm:mt-0">
-          <a
+          <NuxtLink
+            to="/terms-of-service"
             href="#"
             class="mx-2 text-sm text-white transition-colors duration-300 hover:text-gray-100"
             aria-label="Reddit"
           >
             Terms
-          </a>
+          </NuxtLink>
 
-          <a
+          <NuxtLink
+            to="/privacy-policy"
             href="#"
             class="mx-2 text-sm text-white transition-colors duration-300 hover:text-gray-100"
             aria-label="Reddit"
           >
             Privacy
-          </a>
+          </NuxtLink>
 
           <!-- <a href="#" class="mx-2 text-sm text-white transition-colors duration-300 hover:text-gray-100 " aria-label="Reddit"> Cookies </a> -->
         </div>
