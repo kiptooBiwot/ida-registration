@@ -162,7 +162,7 @@ a[x-apple-data-detectors] {
 
     const farmerEmail = await resend.emails.send({
       from: 'Invictus <registration@invictusafrica.net>',
-      to: 'farmers@invictusafrica.net',
+      to: 'registration@invictusafrica.net',
       subject: 'A New Farmer Registered',
       html: `
         <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
