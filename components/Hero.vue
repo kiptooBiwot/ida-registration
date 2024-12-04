@@ -45,8 +45,9 @@
             class="w-[300px] h-[300px] md:w-[450px] md:h-[400px]"
           /> -->
           <!-- </div> -->
+          <!-- src="/images/hero-img-avn2.png" -->
           <img
-            src="/images/hero-img-avn2.png"
+            src="/images/avn_hero.png"
             alt=""
             class="object-cover object-right w-[300px] h-[300px] md:w-[480px] md:h-[450px] border-[8px] border-white"
           />

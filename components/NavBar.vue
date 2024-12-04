@@ -62,6 +62,13 @@ const handleScroll = () => {
           >
             <li>About Us</li>
           </NuxtLink>
+
+          <NuxtLink
+            to="/avn"
+            class="hover:scale-105 transition ease-in-out duration-300 hover:text-purple-700 hover:underline"
+          >
+            <li>A.V.N</li>
+          </NuxtLink>
           <NuxtLink
             to="/registration"
             class="hover:scale-105 transition ease-in-out duration-300 hover:text-purple-700 hover:underline hidden md:block"

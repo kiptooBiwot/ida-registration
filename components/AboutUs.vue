@@ -51,10 +51,10 @@
       </div>
       <div class="space-y-5">
         <p class="leading-relaxed">
-          Agricultural is facing seismic shifts because of the ineffectiveness
-          of conventional farming to address food insecurity, poverty, and the
-          loss of biodiversity. The informal sector in Africa has a massive
-          social and economic footprint especially on women and young people.
+          Agriculture is facing seismic shifts because of the ineffectiveness of
+          conventional farming to address food insecurity, poverty, and the loss
+          of biodiversity. The informal sector in Africa has a massive social
+          and economic footprint especially on women and young people.
           Small-scale farmers face critical challenges from changing food
           systems, urbanisation, and climate change.
         </p>
