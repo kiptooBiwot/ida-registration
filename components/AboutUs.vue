@@ -11,25 +11,17 @@
         </h4>
         <div class="space-y-5">
           <h2 class="text-5xl font-medium tracking-[1px]">
-            Agriculture Value-Chain Network (AVN) is a comprehensive agri-chain
-            platform.
+            Invictus Development Africa (IDA)
           </h2>
           <p class="leading-relaxed">
-            AVN is designed to organise and coordinate organic production. We
-            empower small-holder farmers by providing an end-to-end hybrid
-            solution to replace outdated conventional farming methods. Our
-            approach focuses on nature-based solutions, boosting productivity,
-            climate resilience, and visibility in global markets.
-          </p>
-          <p class="leading-relaxed">
-            Food security in a context of growing populations and a changing
-            climate is arguably the principal challenge of our time. Going into
-            2023, current food systems are unsustainable – both from
-            environmental and social perspectives. In the African continent,
-            more than 63% of 1.4 billion people are small-scale farmers
-            operating in the informal sector. They are the invisible source of
-            food in global supply-chains and have no financial identities or
-            access to controlled farming systems.
+            At Invictus Development Africa (IDA), we are a global social
+            enterprise committed to building sustainable ecosystems that empower
+            communities while protecting the planet. Guided by circular economy
+            principles, we develop and scale transformative solutions in
+            agriculture, renewable energy, and technology-driven livelihoods. By
+            integrating blockchain technology and artificial intelligence (AI),
+            we ensure transparency, efficiency, and data-driven impact at every
+            stage of our operations.
           </p>
         </div>
       </div>
@@ -41,7 +33,7 @@
         />
       </div>
     </div>
-    <div class="grid grid-cols-1 gap-5 md:gap-7 lg:gap-10 md:grid-cols-2">
+    <!-- <div class="grid grid-cols-1 gap-5 md:gap-7 lg:gap-10 md:grid-cols-2">
       <div>
         <img
           src="/images/about-us/coffee_harvesting.png"
@@ -76,7 +68,7 @@
           home enabling them to earn across the supply chain
         </p>
       </div>
-    </div>
+    </div> -->
 
     <div
       class="grid grid-cols-1 gap-5 md:gap-7 lg:gap-10 md:grid-cols-2 bg-[url('/images/about-us/bg-pattern.png')] bg-fixed h-3/4"

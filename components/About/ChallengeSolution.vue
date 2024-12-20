@@ -16,22 +16,21 @@
     </div>
     <div class="col-span-12 lg:col-span-8 grid gap-5">
       <div class="space-y-2">
+        <h2 class="text-3xl mb-3 font-medium text-[#673f7b]">What We Do</h2>
         <h4
           class="uppercase text-gray-500 text-sm tracking-[4px] font-medium mb-2"
         >
-          The Challenge
+          One
         </h4>
         <h2 class="text-2xl text-[#673f7b] font-medium tracking-[1px]">
-          Addressing a Global Crisis
+          Regenerative Agriculture & Food Security
         </h2>
         <p class="leading-relaxed">
-          Ensuring food security in the face of climate challenges and growing
-          populations has become more critical than ever. Small-holder farmers,
-          who constitute 63% of Africa's population, face significant challenges
-          such as limited resources, a lack of digital financial identities, and
-          limited access to fair markets. AVN aims to address these issues by
-          offering a comprehensive solution that combines regenerative land and
-          ocean farming with precision agriculture.
+          Our flagship project, AVN-Hybrid Farming, integrates AI-powered
+          analytics and IoT-based farm monitoring with blockchain-enabled
+          traceability. This ecosystem ensures secure farm-to-market connections
+          where farmers access real-time data for better crop management, and
+          buyers can trace product origins transparently.
         </p>
       </div>
 
@@ -39,37 +38,50 @@
         <h4
           class="uppercase text-gray-500 text-sm tracking-[4px] font-medium mb-2"
         >
-          The Solution
+          Two
         </h4>
         <h2 class="text-2xl text-[#673f7b] font-medium tracking-[1px]">
-          Hybrid Farming
+          Sustainable Business Development
         </h2>
         <p class="leading-relaxed">
-          AVN’s hybrid farming design is a ground-breaking solution that
-          combines regenerative land and ocean farming with precision
-          agriculture to restore ecosystems and optimise yields. Our approach
-          embraces nature-based solutions and circular principles to create a
-          sustainable, closed-loop value chain where waste becomes a resource.
-          Utilising IoT and AI, we provide farmers with data-driven insights and
-          curated global market access.
+          We partner with global investors, NGOs, and development agencies to
+          co-create scalable businesses that deliver measurable economic,
+          social, and environmental returns. Smart contracts powered by
+          blockchain ensure accountability, secure transactions, and transparent
+          business models.
         </p>
       </div>
       <div class="space-y-2">
         <h4
           class="uppercase text-gray-500 text-sm tracking-[4px] font-medium mb-2"
         >
-          Our Solution's Features
+          Three
         </h4>
         <h2 class="text-2xl text-[#673f7b] font-medium tracking-[1px]">
-          Key Features of Hybrid Farming
+          Circular Economy & Resource Management
         </h2>
-        <ul class="ml-10 list-disc leading-relaxed">
-          <li>Community engagement and capacity building</li>
-          <li>Agrophotovoltaics (APV)</li>
-          <li>Regenerative Land and Ocean Farming</li>
-          <li>Circularity</li>
-          <li>Technology and innovation</li>
-        </ul>
+        <p class="leading-relaxed">
+          We promote circular economic models by reducing waste, recycling
+          materials, and fostering sustainable value chains. AI-powered
+          analytics optimise resource management, while blockchain-based
+          certification ensures product sustainability and ethical sourcing.
+        </p>
+      </div>
+      <div class="space-y-2">
+        <h4
+          class="uppercase text-gray-500 text-sm tracking-[4px] font-medium mb-2"
+        >
+          Four
+        </h4>
+        <h2 class="text-2xl text-[#673f7b] font-medium tracking-[1px]">
+          Training & Capacity Building
+        </h2>
+        <p class="leading-relaxed">
+          We invest in people through skills training, entrepreneurship
+          development, and digital literacy programs. Our AI-driven learning
+          platforms and blockchain-backed financial tools equip farmers,
+          entrepreneurs, and businesses with future-ready capabilities.
+        </p>
       </div>
     </div>
   </div>
