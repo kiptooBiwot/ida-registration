@@ -24,7 +24,7 @@ const items = ref([
 <template>
   <div>
     <h2 class="text-3xl mb-8 font-medium text-center text-[#673f7b]">
-      What We Do
+      Our Commitment
     </h2>
     <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-10">
       <div
